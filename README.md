@@ -32,14 +32,10 @@ I'm a dedicated Backend Developer and recent graduate of the **Hacktiv8 Golang B
 
 ### 🚀 Featured Projects
 
-* **[Property Rental RESTful API](https://github.com/rasangar-project)**  
+* **[Property Rental RESTful API](https://github.com/rasangar-project/rental-rumah-api)**  
   A RESTful API built with **Go** and **Echo** utilizing Clean Architecture. Features secure transactions with JWT/Bcrypt, **PostgreSQL (GORM)** for data management, and third-party API integration for real-time currency conversion.
-* **[Beverage Cafe Management CLI](https://github.com/rasangar-project)**  
+* **[Beverage Cafe Management CLI](https://github.com/rasangar-project/pairproject)**  
   A CLI tool for cafe operations featuring robust user, product, and order management. Engineered with a **MySQL** relational schema and Go Database Transactions for atomic checkouts.
-* **[BNN Functional Position Portal](https://github.com/rasangar-project)**  
+* **[BNN Functional Position Portal](https://pi-jf-bnn.netlify.app/)**  
   A serverless web app for real-time HR data management, combining **Google Apps Script** as a backend and Google Sheets as a database, integrated with a responsive Bootstrap 5 frontend.
 
----
-
-### 📊 GitHub Stats
-![Ardhit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasangar-project&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
