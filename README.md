@@ -1,7 +1,4 @@
-# Hi there 👋, I'm Ardhit Ramadhan
-
-### Backend Developer | Building Robust Go APIs 🚀
-
+![Ardhit Ramadhan](img/github-header-banner.png)
 I'm a dedicated Backend Developer and recent graduate of the **Hacktiv8 Golang Backend Developer** program. With a solid foundation in IT Support and Administration at BNN, I bring a unique blend of system engineering, cross-functional collaboration, and problem-solving skills to software development roles.
 
 ### 👨‍💻 About Me
@@ -39,3 +36,10 @@ I'm a dedicated Backend Developer and recent graduate of the **Hacktiv8 Golang B
 * **[BNN Functional Position Portal](https://pi-jf-bnn.netlify.app/)**  
   A serverless web app for real-time HR data management, combining **Google Apps Script** as a backend and Google Sheets as a database, integrated with a responsive Bootstrap 5 frontend.
 
+
+<div align="center">
+  <h3>💣 BOMBAAA</h3>
+  <picture>
+    <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/rasangar-project/rasangar-project/output/bomberman-contribution-graph.svg">
+  </picture>
+</div>
